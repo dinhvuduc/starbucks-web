@@ -1,6 +1,6 @@
 # Starbucks Website Project  
 
-This is a small project designed for learning **HTML** and **CSS** by creating a simple and responsive landing page.  
+This small project is for learning HTML and CSS by building a simple, responsive Starbucks website.
 
 ![image](https://github.com/user-attachments/assets/4302ee29-73cb-4ca8-9a37-13a12599dae2)
 
